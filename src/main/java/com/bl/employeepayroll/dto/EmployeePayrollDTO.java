@@ -7,6 +7,7 @@ public class EmployeePayrollDTO {
     public EmployeePayrollDTO(String name, long salary){
         this.name = name;
         this.salary = salary;
+
     }
 
     public String toString() {
